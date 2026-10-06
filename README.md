@@ -1,6 +1,6 @@
 # SWE40006 Portfolio Task 4: Deploy Containers Using Docker
 
-**Student:** <Yadanar Theint>
+**Student:** <YadanarTheint>
 **Student ID:** <104992813 / J22037276>
 **Unit:** SWE40006 Software Deployment and Evolution
 **Level attempted:** HD (Sub-tasks 4.1 to 4.4)
